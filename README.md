@@ -1,1 +1,2 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Next.js-testing-app
+First next.js app to learn the specificity of this framework
